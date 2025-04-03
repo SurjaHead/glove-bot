@@ -5,7 +5,6 @@
   <p align="center">
     Wireless robotic hand controlled by a glove with flex sensors.
     <br />
-     <a href="https://github.com/surjahead/glove-bot">github.com/surjahead/glove-bot</a>
   </p>
 </div>
 
