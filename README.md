@@ -46,7 +46,7 @@
 
 ## About The Project
 
-The Glove Bot project is a robotic hand controlled wirelessly by a glove equipped with flex sensors. The glove, connected to an ESP32, transmits finger bend data to an Arduino Uno, which controls the robotic hand's servo motors. An OLED display provides visual feedback of the hand's current state.
+The Glove Bot project is a robotic hand controlled wirelessly by a glove equipped with flex sensors. The glove, connected to an ESP32, transmits finger bend data to an Arduino Uno, which controls the robotic hand's servo motors. An OLED display provides visual feedback of the hand's current state. I built this with my friends [Evan](https://x.com/evanliin) and [Saksham](https://x.com/batra_saksham05) (goated ppl btw).
 
 ### Key Features
 
