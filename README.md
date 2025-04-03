@@ -138,4 +138,4 @@ These files can be used to 3D print the mechanical parts of the robotic hand.
 
 ## Acknowledgments
 
-- This README was created using [gitreadme.dev](https://gitreadme.dev) — an AI tool that looks at your entire codebase to instantly generate high-quality README files.
+- This project was inspired by [this](https://youtu.be/Fvg-v8FPcjg?si=RiB0s6e0aVF1fIAb) video.
