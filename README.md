@@ -57,8 +57,6 @@ The Glove Bot project is a robotic hand controlled wirelessly by a glove equippe
 - **Emergency Stop:** Includes a button to halt the system and detach the servos.
 ## Architecture
 
-![Architecture Diagram](https://github.com/user-attachments/assets/721b7fb3-e480-4809-9023-fd48b82b1f8c)
-
 The system comprises two main parts: the transmitter (glove) and the receiver (robotic hand).
 
 - **Transmitter (Glove):**
